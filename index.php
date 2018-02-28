@@ -15,7 +15,7 @@ and open the template in the editor.
         
         echo "git toto<br/>\n";
         
-        echo "gros comique va !\n";
+        echo "gros gros comique va !\n";
         ?>
     </body>
 </html>
